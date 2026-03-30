@@ -14,6 +14,7 @@ DSA   zero to pro
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ajay9508/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ajay9508/DSA/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/Ajay9508/DSA/tree/master/0338-counting-bits) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ajay9508/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Greedy
 |  |
@@ -31,4 +32,8 @@ DSA   zero to pro
 |  |
 | ------- |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ajay9508/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Ajay9508/DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
