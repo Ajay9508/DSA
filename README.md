@@ -40,4 +40,12 @@ DSA   zero to pro
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Ajay9508/DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Ajay9508/DSA/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ajay9508/DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ajay9508/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
