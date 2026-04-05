@@ -6,6 +6,7 @@ DSA   zero to pro
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ajay9508/DSA/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Ajay9508/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ajay9508/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ajay9508/DSA/tree/master/0045-jump-game-ii) |
@@ -53,6 +54,7 @@ DSA   zero to pro
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ajay9508/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ajay9508/DSA/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -62,4 +64,8 @@ DSA   zero to pro
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajay9508/DSA/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Ajay9508/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
