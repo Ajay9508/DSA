@@ -6,6 +6,7 @@ DSA   zero to pro
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ajay9508/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ajay9508/DSA/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Ajay9508/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ajay9508/DSA/tree/master/0042-trapping-rain-water) |
@@ -68,4 +69,8 @@ DSA   zero to pro
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ajay9508/DSA/tree/master/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ajay9508/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
