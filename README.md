@@ -15,6 +15,7 @@ DSA   zero to pro
 | [0053-maximum-subarray](https://github.com/Ajay9508/DSA/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/Ajay9508/DSA/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/Ajay9508/DSA/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ajay9508/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/Ajay9508/DSA/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
@@ -34,6 +35,7 @@ DSA   zero to pro
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ajay9508/DSA/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Ajay9508/DSA/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +78,7 @@ DSA   zero to pro
 | ------- |
 | [0015-3sum](https://github.com/Ajay9508/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ajay9508/DSA/tree/master/0016-3sum-closest) |
+| [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +87,24 @@ DSA   zero to pro
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Ajay9508/DSA/tree/master/1929-concatenation-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
