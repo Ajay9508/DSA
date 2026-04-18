@@ -113,4 +113,8 @@ DSA   zero to pro
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ajay9508/DSA/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/Ajay9508/DSA/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
