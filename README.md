@@ -13,6 +13,7 @@ DSA   zero to pro
 | [0042-trapping-rain-water](https://github.com/Ajay9508/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ajay9508/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ajay9508/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Ajay9508/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Ajay9508/DSA/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/Ajay9508/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
@@ -69,6 +70,7 @@ DSA   zero to pro
 | [0015-3sum](https://github.com/Ajay9508/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ajay9508/DSA/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Ajay9508/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Ajay9508/DSA/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
@@ -82,6 +84,7 @@ DSA   zero to pro
 | ------- |
 | [0015-3sum](https://github.com/Ajay9508/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ajay9508/DSA/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Ajay9508/DSA/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
