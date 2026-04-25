@@ -21,6 +21,7 @@ DSA   zero to pro
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ajay9508/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/Ajay9508/DSA/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ajay9508/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ajay9508/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ DSA   zero to pro
 | [0009-palindrome-number](https://github.com/Ajay9508/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Ajay9508/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Ajay9508/DSA/tree/master/0070-climbing-stairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ajay9508/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
