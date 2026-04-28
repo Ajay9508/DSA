@@ -64,11 +64,13 @@ DSA   zero to pro
 | [0009-palindrome-number](https://github.com/Ajay9508/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Ajay9508/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Ajay9508/DSA/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/Ajay9508/DSA/tree/master/0326-power-of-three) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajay9508/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ajay9508/DSA/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Ajay9508/DSA/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
