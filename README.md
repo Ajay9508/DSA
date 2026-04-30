@@ -56,6 +56,7 @@ DSA   zero to pro
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Ajay9508/DSA/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/Ajay9508/DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Ajay9508/DSA/tree/master/0338-counting-bits) |
 ## Math
@@ -64,6 +65,7 @@ DSA   zero to pro
 | [0009-palindrome-number](https://github.com/Ajay9508/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Ajay9508/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Ajay9508/DSA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Ajay9508/DSA/tree/master/0089-gray-code) |
 | [0326-power-of-three](https://github.com/Ajay9508/DSA/tree/master/0326-power-of-three) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajay9508/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -130,4 +132,8 @@ DSA   zero to pro
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/Ajay9508/DSA/tree/master/0607-sales-person) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Ajay9508/DSA/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
