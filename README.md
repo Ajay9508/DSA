@@ -59,6 +59,7 @@ DSA   zero to pro
 | [0089-gray-code](https://github.com/Ajay9508/DSA/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/Ajay9508/DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Ajay9508/DSA/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/Ajay9508/DSA/tree/master/0401-binary-watch) |
 ## Math
 |  |
 | ------- |
@@ -136,4 +137,5 @@ DSA   zero to pro
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Ajay9508/DSA/tree/master/0089-gray-code) |
+| [0401-binary-watch](https://github.com/Ajay9508/DSA/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
