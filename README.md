@@ -140,4 +140,12 @@ DSA   zero to pro
 | ------- |
 | [0089-gray-code](https://github.com/Ajay9508/DSA/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/Ajay9508/DSA/tree/master/0401-binary-watch) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Ajay9508/DSA/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Ajay9508/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
