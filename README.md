@@ -24,6 +24,7 @@ DSA   zero to pro
 | [1861-rotating-the-box](https://github.com/Ajay9508/DSA/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/Ajay9508/DSA/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ajay9508/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-trionic-array-i](https://github.com/Ajay9508/DSA/tree/master/3637-trionic-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajay9508/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -74,6 +75,7 @@ DSA   zero to pro
 | [0089-gray-code](https://github.com/Ajay9508/DSA/tree/master/0089-gray-code) |
 | [0326-power-of-three](https://github.com/Ajay9508/DSA/tree/master/0326-power-of-three) |
 | [0788-rotated-digits](https://github.com/Ajay9508/DSA/tree/master/0788-rotated-digits) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajay9508/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -111,6 +113,7 @@ DSA   zero to pro
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ajay9508/DSA/tree/master/0001-two-sum) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Simulation
 |  |
 | ------- |
@@ -165,4 +168,12 @@ DSA   zero to pro
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Ajay9508/DSA/tree/master/0061-rotate-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
