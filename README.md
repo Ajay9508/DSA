@@ -22,6 +22,7 @@ DSA   zero to pro
 | [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ajay9508/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/Ajay9508/DSA/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Ajay9508/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Ajay9508/DSA/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ajay9508/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -117,6 +118,7 @@ DSA   zero to pro
 ## Simulation
 |  |
 | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/Ajay9508/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Ajay9508/DSA/tree/master/1929-concatenation-of-array) |
 ## Heap (Priority Queue)
 |  |
@@ -164,6 +166,7 @@ DSA   zero to pro
 | ------- |
 | [0048-rotate-image](https://github.com/Ajay9508/DSA/tree/master/0048-rotate-image) |
 | [1861-rotating-the-box](https://github.com/Ajay9508/DSA/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Ajay9508/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 ## Linked List
 |  |
 | ------- |
