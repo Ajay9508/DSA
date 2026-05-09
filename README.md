@@ -18,6 +18,7 @@ DSA   zero to pro
 | [0053-maximum-subarray](https://github.com/Ajay9508/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ajay9508/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Ajay9508/DSA/tree/master/0162-find-peak-element) |
+| [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
 | [0875-koko-eating-bananas](https://github.com/Ajay9508/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ajay9508/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -36,6 +37,7 @@ DSA   zero to pro
 | [0053-maximum-subarray](https://github.com/Ajay9508/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ajay9508/DSA/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Ajay9508/DSA/tree/master/0338-counting-bits) |
+| [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Ajay9508/DSA/tree/master/0788-rotated-digits) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ajay9508/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Greedy
@@ -75,6 +77,7 @@ DSA   zero to pro
 | [0070-climbing-stairs](https://github.com/Ajay9508/DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Ajay9508/DSA/tree/master/0089-gray-code) |
 | [0326-power-of-three](https://github.com/Ajay9508/DSA/tree/master/0326-power-of-three) |
+| [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Ajay9508/DSA/tree/master/0788-rotated-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajay9508/DSA/tree/master/3875-construct-uniform-parity-array-i) |
