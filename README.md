@@ -18,6 +18,7 @@ DSA   zero to pro
 | [0048-rotate-image](https://github.com/Ajay9508/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ajay9508/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ajay9508/DSA/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ajay9508/DSA/tree/master/0162-find-peak-element) |
 | [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
 | [0704-binary-search](https://github.com/Ajay9508/DSA/tree/master/0704-binary-search) |
@@ -58,6 +59,7 @@ DSA   zero to pro
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ajay9508/DSA/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ajay9508/DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Ajay9508/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ajay9508/DSA/tree/master/0875-koko-eating-bananas) |
