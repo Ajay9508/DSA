@@ -11,6 +11,7 @@ DSA   zero to pro
 | [0016-3sum-closest](https://github.com/Ajay9508/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ajay9508/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Ajay9508/DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ajay9508/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ajay9508/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ajay9508/DSA/tree/master/0045-jump-game-ii) |
@@ -55,6 +56,7 @@ DSA   zero to pro
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ajay9508/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Ajay9508/DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Ajay9508/DSA/tree/master/0704-binary-search) |
