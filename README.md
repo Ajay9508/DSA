@@ -19,6 +19,7 @@ DSA   zero to pro
 | [0075-sort-colors](https://github.com/Ajay9508/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Ajay9508/DSA/tree/master/0162-find-peak-element) |
 | [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
+| [0704-binary-search](https://github.com/Ajay9508/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ajay9508/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ajay9508/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -56,6 +57,7 @@ DSA   zero to pro
 | ------- |
 | [0035-search-insert-position](https://github.com/Ajay9508/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Ajay9508/DSA/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/Ajay9508/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ajay9508/DSA/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
