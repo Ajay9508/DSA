@@ -18,6 +18,7 @@ DSA   zero to pro
 | [0048-rotate-image](https://github.com/Ajay9508/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ajay9508/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ajay9508/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ajay9508/DSA/tree/master/0162-find-peak-element) |
 | [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
@@ -102,6 +103,7 @@ DSA   zero to pro
 | [0042-trapping-rain-water](https://github.com/Ajay9508/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Ajay9508/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Ajay9508/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0088-merge-sorted-array) |
 | [1861-rotating-the-box](https://github.com/Ajay9508/DSA/tree/master/1861-rotating-the-box) |
 ## Stack
 |  |
@@ -118,6 +120,7 @@ DSA   zero to pro
 | [0016-3sum-closest](https://github.com/Ajay9508/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ajay9508/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Ajay9508/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
