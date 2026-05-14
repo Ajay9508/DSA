@@ -104,6 +104,7 @@ DSA   zero to pro
 | [0061-rotate-list](https://github.com/Ajay9508/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Ajay9508/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Ajay9508/DSA/tree/master/0125-valid-palindrome) |
 | [1861-rotating-the-box](https://github.com/Ajay9508/DSA/tree/master/1861-rotating-the-box) |
 ## Stack
 |  |
@@ -168,6 +169,7 @@ DSA   zero to pro
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ajay9508/DSA/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/Ajay9508/DSA/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
