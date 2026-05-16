@@ -7,6 +7,7 @@ DSA   zero to pro
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ajay9508/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Ajay9508/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ajay9508/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ajay9508/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ajay9508/DSA/tree/master/0018-4sum) |
@@ -169,6 +170,7 @@ DSA   zero to pro
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ajay9508/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Ajay9508/DSA/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/Ajay9508/DSA/tree/master/0796-rotate-string) |
 ## String Matching
@@ -193,4 +195,8 @@ DSA   zero to pro
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ajay9508/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
