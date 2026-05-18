@@ -108,6 +108,7 @@ DSA   zero to pro
 | [0075-sort-colors](https://github.com/Ajay9508/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ajay9508/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Ajay9508/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajay9508/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1861-rotating-the-box](https://github.com/Ajay9508/DSA/tree/master/1861-rotating-the-box) |
 ## Stack
@@ -177,6 +178,7 @@ DSA   zero to pro
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ajay9508/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Ajay9508/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Ajay9508/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/Ajay9508/DSA/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
