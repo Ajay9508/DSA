@@ -32,6 +32,7 @@ DSA   zero to pro
 | [1914-cyclically-rotating-a-grid](https://github.com/Ajay9508/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Ajay9508/DSA/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ajay9508/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2540-minimum-common-value](https://github.com/Ajay9508/DSA/tree/master/2540-minimum-common-value) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-trionic-array-i](https://github.com/Ajay9508/DSA/tree/master/3637-trionic-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajay9508/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -67,6 +68,7 @@ DSA   zero to pro
 | [0349-intersection-of-two-arrays](https://github.com/Ajay9508/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Ajay9508/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ajay9508/DSA/tree/master/0875-koko-eating-bananas) |
+| [2540-minimum-common-value](https://github.com/Ajay9508/DSA/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,6 +113,7 @@ DSA   zero to pro
 | [0151-reverse-words-in-a-string](https://github.com/Ajay9508/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajay9508/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1861-rotating-the-box](https://github.com/Ajay9508/DSA/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/Ajay9508/DSA/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -134,6 +137,7 @@ DSA   zero to pro
 | ------- |
 | [0001-two-sum](https://github.com/Ajay9508/DSA/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajay9508/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/Ajay9508/DSA/tree/master/2540-minimum-common-value) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Simulation
 |  |
