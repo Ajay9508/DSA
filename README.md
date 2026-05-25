@@ -68,6 +68,7 @@ DSA   zero to pro
 | [0033-search-in-rotated-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ajay9508/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Ajay9508/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ajay9508/DSA/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajay9508/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -92,6 +93,7 @@ DSA   zero to pro
 | [0009-palindrome-number](https://github.com/Ajay9508/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Ajay9508/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ajay9508/DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Ajay9508/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ajay9508/DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Ajay9508/DSA/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Ajay9508/DSA/tree/master/0168-excel-sheet-column-title) |
