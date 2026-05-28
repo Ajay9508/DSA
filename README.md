@@ -156,6 +156,7 @@ DSA   zero to pro
 | [0001-two-sum](https://github.com/Ajay9508/DSA/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajay9508/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajay9508/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Ajay9508/DSA/tree/master/0383-ransom-note) |
 | [2540-minimum-common-value](https://github.com/Ajay9508/DSA/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Ajay9508/DSA/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ajay9508/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -185,6 +186,7 @@ DSA   zero to pro
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Ajay9508/DSA/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
 ## Memoization
 |  |
@@ -207,6 +209,7 @@ DSA   zero to pro
 | [0125-valid-palindrome](https://github.com/Ajay9508/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajay9508/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Ajay9508/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0383-ransom-note](https://github.com/Ajay9508/DSA/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/Ajay9508/DSA/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Ajay9508/DSA/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/Ajay9508/DSA/tree/master/1768-merge-strings-alternately) |
