@@ -106,6 +106,7 @@ DSA   zero to pro
 | [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Ajay9508/DSA/tree/master/0441-arranging-coins) |
 | [0788-rotated-digits](https://github.com/Ajay9508/DSA/tree/master/0788-rotated-digits) |
+| [1952-three-divisors](https://github.com/Ajay9508/DSA/tree/master/1952-three-divisors) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajay9508/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -238,9 +239,14 @@ DSA   zero to pro
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Ajay9508/DSA/tree/master/1952-three-divisors) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ajay9508/DSA/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Ajay9508/DSA/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
