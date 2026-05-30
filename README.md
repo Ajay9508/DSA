@@ -92,6 +92,7 @@ DSA   zero to pro
 | [0191-number-of-1-bits](https://github.com/Ajay9508/DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Ajay9508/DSA/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Ajay9508/DSA/tree/master/0401-binary-watch) |
+| [1486-xor-operation-in-an-array](https://github.com/Ajay9508/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +107,7 @@ DSA   zero to pro
 | [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Ajay9508/DSA/tree/master/0441-arranging-coins) |
 | [0788-rotated-digits](https://github.com/Ajay9508/DSA/tree/master/0788-rotated-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/Ajay9508/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/Ajay9508/DSA/tree/master/1952-three-divisors) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajay9508/DSA/tree/master/3875-construct-uniform-parity-array-i) |
