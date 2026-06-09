@@ -28,6 +28,7 @@ DSA   zero to pro
 | [0349-intersection-of-two-arrays](https://github.com/Ajay9508/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajay9508/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
+| [0485-max-consecutive-ones](https://github.com/Ajay9508/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Ajay9508/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ajay9508/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Ajay9508/DSA/tree/master/0875-koko-eating-bananas) |
