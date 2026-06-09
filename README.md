@@ -29,6 +29,7 @@ DSA   zero to pro
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajay9508/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/Ajay9508/DSA/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/Ajay9508/DSA/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/Ajay9508/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ajay9508/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Ajay9508/DSA/tree/master/0875-koko-eating-bananas) |
@@ -187,6 +188,7 @@ DSA   zero to pro
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Ajay9508/DSA/tree/master/0566-reshape-the-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ajay9508/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Ajay9508/DSA/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ajay9508/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -248,6 +250,7 @@ DSA   zero to pro
 | ------- |
 | [0048-rotate-image](https://github.com/Ajay9508/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Ajay9508/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Ajay9508/DSA/tree/master/0566-reshape-the-matrix) |
 | [1861-rotating-the-box](https://github.com/Ajay9508/DSA/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ajay9508/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ajay9508/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
