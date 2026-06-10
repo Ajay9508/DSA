@@ -123,6 +123,7 @@ DSA   zero to pro
 | [0788-rotated-digits](https://github.com/Ajay9508/DSA/tree/master/0788-rotated-digits) |
 | [0858-mirror-reflection](https://github.com/Ajay9508/DSA/tree/master/0858-mirror-reflection) |
 | [1486-xor-operation-in-an-array](https://github.com/Ajay9508/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1492-the-kth-factor-of-n](https://github.com/Ajay9508/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Ajay9508/DSA/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Ajay9508/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Ajay9508/DSA/tree/master/2427-number-of-common-factors) |
@@ -272,6 +273,7 @@ DSA   zero to pro
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/Ajay9508/DSA/tree/master/0858-mirror-reflection) |
+| [1492-the-kth-factor-of-n](https://github.com/Ajay9508/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Ajay9508/DSA/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Ajay9508/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Ajay9508/DSA/tree/master/2427-number-of-common-factors) |
