@@ -70,6 +70,7 @@ DSA   zero to pro
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ajay9508/DSA/tree/master/0045-jump-game-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ajay9508/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Ajay9508/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ajay9508/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
@@ -132,6 +133,7 @@ DSA   zero to pro
 | [1486-xor-operation-in-an-array](https://github.com/Ajay9508/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Ajay9508/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Ajay9508/DSA/tree/master/1952-three-divisors) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Ajay9508/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2413-smallest-even-multiple](https://github.com/Ajay9508/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Ajay9508/DSA/tree/master/2427-number-of-common-factors) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
