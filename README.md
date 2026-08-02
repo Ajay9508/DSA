@@ -37,6 +37,7 @@ DSA   zero to pro
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ajay9508/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Ajay9508/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
+| [1260-shift-2d-grid](https://github.com/Ajay9508/DSA/tree/master/1260-shift-2d-grid) |
 | [1470-shuffle-the-array](https://github.com/Ajay9508/DSA/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/Ajay9508/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ajay9508/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -208,6 +209,7 @@ DSA   zero to pro
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Ajay9508/DSA/tree/master/0566-reshape-the-matrix) |
+| [1260-shift-2d-grid](https://github.com/Ajay9508/DSA/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ajay9508/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Ajay9508/DSA/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ajay9508/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -271,6 +273,7 @@ DSA   zero to pro
 | [0048-rotate-image](https://github.com/Ajay9508/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Ajay9508/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Ajay9508/DSA/tree/master/0566-reshape-the-matrix) |
+| [1260-shift-2d-grid](https://github.com/Ajay9508/DSA/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/Ajay9508/DSA/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ajay9508/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ajay9508/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
