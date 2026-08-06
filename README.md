@@ -20,6 +20,7 @@ DSA   zero to pro
 | [0045-jump-game-ii](https://github.com/Ajay9508/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Ajay9508/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ajay9508/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Ajay9508/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Ajay9508/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ajay9508/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0088-merge-sorted-array) |
@@ -208,6 +209,7 @@ DSA   zero to pro
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ajay9508/DSA/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Ajay9508/DSA/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ajay9508/DSA/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ajay9508/DSA/tree/master/1914-cyclically-rotating-a-grid) |
@@ -271,6 +273,7 @@ DSA   zero to pro
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ajay9508/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Ajay9508/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Ajay9508/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Ajay9508/DSA/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ajay9508/DSA/tree/master/1260-shift-2d-grid) |
