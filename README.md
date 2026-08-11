@@ -138,6 +138,7 @@ DSA   zero to pro
 | [0858-mirror-reflection](https://github.com/Ajay9508/DSA/tree/master/0858-mirror-reflection) |
 | [1486-xor-operation-in-an-array](https://github.com/Ajay9508/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Ajay9508/DSA/tree/master/1492-the-kth-factor-of-n) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ajay9508/DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1952-three-divisors](https://github.com/Ajay9508/DSA/tree/master/1952-three-divisors) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ajay9508/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2413-smallest-even-multiple](https://github.com/Ajay9508/DSA/tree/master/2413-smallest-even-multiple) |
