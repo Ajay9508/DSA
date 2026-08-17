@@ -276,6 +276,7 @@ DSA   zero to pro
 | [0151-reverse-words-in-a-string](https://github.com/Ajay9508/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Ajay9508/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0383-ransom-note](https://github.com/Ajay9508/DSA/tree/master/0383-ransom-note) |
+| [0520-detect-capital](https://github.com/Ajay9508/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Ajay9508/DSA/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Ajay9508/DSA/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/Ajay9508/DSA/tree/master/1768-merge-strings-alternately) |
