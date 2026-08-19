@@ -133,6 +133,7 @@ DSA   zero to pro
 | [0089-gray-code](https://github.com/Ajay9508/DSA/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Ajay9508/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Ajay9508/DSA/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Ajay9508/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Ajay9508/DSA/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Ajay9508/DSA/tree/master/0441-arranging-coins) |
