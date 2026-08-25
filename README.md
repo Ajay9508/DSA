@@ -60,6 +60,7 @@ DSA   zero to pro
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-trionic-array-i](https://github.com/Ajay9508/DSA/tree/master/3637-trionic-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ajay9508/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ajay9508/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajay9508/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -222,6 +223,7 @@ DSA   zero to pro
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ajay9508/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ajay9508/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ajay9508/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
