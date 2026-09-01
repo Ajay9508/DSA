@@ -127,6 +127,7 @@ DSA   zero to pro
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ajay9508/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ajay9508/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Ajay9508/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ajay9508/DSA/tree/master/0050-powx-n) |
@@ -158,6 +159,7 @@ DSA   zero to pro
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ajay9508/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Ajay9508/DSA/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Ajay9508/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ajay9508/DSA/tree/master/0509-fibonacci-number) |
@@ -311,6 +313,7 @@ DSA   zero to pro
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ajay9508/DSA/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Ajay9508/DSA/tree/master/0061-rotate-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ajay9508/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
