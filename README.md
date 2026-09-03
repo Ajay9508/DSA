@@ -66,6 +66,7 @@ DSA   zero to pro
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ajay9508/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ajay9508/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ajay9508/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ajay9508/DSA/tree/master/0053-maximum-subarray) |
@@ -168,6 +169,7 @@ DSA   zero to pro
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ajay9508/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Ajay9508/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ajay9508/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ajay9508/DSA/tree/master/0018-4sum) |
@@ -282,6 +284,7 @@ DSA   zero to pro
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajay9508/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Ajay9508/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Ajay9508/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Ajay9508/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajay9508/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -355,4 +358,8 @@ DSA   zero to pro
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajay9508/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay9508/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ajay9508/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
