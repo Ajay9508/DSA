@@ -79,6 +79,7 @@ DSA   zero to pro
 | [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Ajay9508/DSA/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Ajay9508/DSA/tree/master/0788-rotated-digits) |
+| [0940-distinct-subsequences-ii](https://github.com/Ajay9508/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ajay9508/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Greedy
 |  |
@@ -302,6 +303,7 @@ DSA   zero to pro
 | [0520-detect-capital](https://github.com/Ajay9508/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Ajay9508/DSA/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Ajay9508/DSA/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Ajay9508/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1768-merge-strings-alternately](https://github.com/Ajay9508/DSA/tree/master/1768-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay9508/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ajay9508/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
