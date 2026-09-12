@@ -150,6 +150,7 @@ DSA   zero to pro
 | [0326-power-of-three](https://github.com/Ajay9508/DSA/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Ajay9508/DSA/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/Ajay9508/DSA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Ajay9508/DSA/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Ajay9508/DSA/tree/master/0788-rotated-digits) |
 | [0858-mirror-reflection](https://github.com/Ajay9508/DSA/tree/master/0858-mirror-reflection) |
@@ -305,6 +306,7 @@ DSA   zero to pro
 | [0171-excel-sheet-column-number](https://github.com/Ajay9508/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/Ajay9508/DSA/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ajay9508/DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0504-base-7](https://github.com/Ajay9508/DSA/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Ajay9508/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Ajay9508/DSA/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Ajay9508/DSA/tree/master/0796-rotate-string) |
