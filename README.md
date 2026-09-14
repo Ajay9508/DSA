@@ -156,6 +156,7 @@ DSA   zero to pro
 | [0504-base-7](https://github.com/Ajay9508/DSA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Ajay9508/DSA/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Ajay9508/DSA/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/Ajay9508/DSA/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/Ajay9508/DSA/tree/master/0858-mirror-reflection) |
 | [1486-xor-operation-in-an-array](https://github.com/Ajay9508/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Ajay9508/DSA/tree/master/1492-the-kth-factor-of-n) |
@@ -370,6 +371,7 @@ DSA   zero to pro
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Ajay9508/DSA/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/Ajay9508/DSA/tree/master/0858-mirror-reflection) |
 ## Quickselect
 |  |
