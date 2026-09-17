@@ -58,6 +58,7 @@ DSA   zero to pro
 | [2574-left-and-right-sum-differences](https://github.com/Ajay9508/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ajay9508/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2784-check-if-array-is-good](https://github.com/Ajay9508/DSA/tree/master/2784-check-if-array-is-good) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ajay9508/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ajay9508/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ajay9508/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
