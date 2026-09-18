@@ -35,6 +35,7 @@ DSA   zero to pro
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajay9508/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Ajay9508/DSA/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Ajay9508/DSA/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ajay9508/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ajay9508/DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Ajay9508/DSA/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/Ajay9508/DSA/tree/master/0645-set-mismatch) |
@@ -243,6 +244,7 @@ DSA   zero to pro
 | [0349-intersection-of-two-arrays](https://github.com/Ajay9508/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajay9508/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Ajay9508/DSA/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ajay9508/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ajay9508/DSA/tree/master/0645-set-mismatch) |
 | [2540-minimum-common-value](https://github.com/Ajay9508/DSA/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ajay9508/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
