@@ -30,6 +30,7 @@ DSA   zero to pro
 | [0162-find-peak-element](https://github.com/Ajay9508/DSA/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ajay9508/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ajay9508/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ajay9508/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Ajay9508/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajay9508/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajay9508/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -241,6 +242,7 @@ DSA   zero to pro
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajay9508/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Ajay9508/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ajay9508/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ajay9508/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajay9508/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajay9508/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Ajay9508/DSA/tree/master/0383-ransom-note) |
@@ -395,6 +397,7 @@ DSA   zero to pro
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajay9508/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Ajay9508/DSA/tree/master/0219-contains-duplicate-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay9508/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Manacher
 |  |
