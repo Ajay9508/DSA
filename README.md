@@ -116,6 +116,7 @@ DSA   zero to pro
 | [0074-search-a-2d-matrix](https://github.com/Ajay9508/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ajay9508/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ajay9508/DSA/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/Ajay9508/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajay9508/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajay9508/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ajay9508/DSA/tree/master/0374-guess-number-higher-or-lower) |
@@ -419,5 +420,6 @@ DSA   zero to pro
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Ajay9508/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ajay9508/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
