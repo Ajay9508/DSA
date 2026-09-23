@@ -49,6 +49,7 @@ DSA   zero to pro
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ajay9508/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Ajay9508/DSA/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/Ajay9508/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ajay9508/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ajay9508/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ajay9508/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/Ajay9508/DSA/tree/master/1861-rotating-the-box) |
@@ -126,10 +127,12 @@ DSA   zero to pro
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ajay9508/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Ajay9508/DSA/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/Ajay9508/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ajay9508/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/Ajay9508/DSA/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ajay9508/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2574-left-and-right-sum-differences](https://github.com/Ajay9508/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ajay9508/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Ajay9508/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -253,6 +256,7 @@ DSA   zero to pro
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ajay9508/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ajay9508/DSA/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/Ajay9508/DSA/tree/master/1122-relative-sort-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ajay9508/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/Ajay9508/DSA/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ajay9508/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2784-check-if-array-is-good](https://github.com/Ajay9508/DSA/tree/master/2784-check-if-array-is-good) |
@@ -404,6 +408,7 @@ DSA   zero to pro
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajay9508/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Ajay9508/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ajay9508/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay9508/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Manacher
 |  |
