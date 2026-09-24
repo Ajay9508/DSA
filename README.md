@@ -66,6 +66,7 @@ DSA   zero to pro
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ajay9508/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ajay9508/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ajay9508/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ajay9508/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-trionic-array-i](https://github.com/Ajay9508/DSA/tree/master/3637-trionic-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ajay9508/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -178,6 +179,7 @@ DSA   zero to pro
 | [2427-number-of-common-factors](https://github.com/Ajay9508/DSA/tree/master/2427-number-of-common-factors) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ajay9508/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ajay9508/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ajay9508/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ajay9508/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ajay9508/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
