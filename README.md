@@ -58,6 +58,7 @@ DSA   zero to pro
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ajay9508/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ajay9508/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ajay9508/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Ajay9508/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2540-minimum-common-value](https://github.com/Ajay9508/DSA/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Ajay9508/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ajay9508/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -147,6 +148,7 @@ DSA   zero to pro
 | [0401-binary-watch](https://github.com/Ajay9508/DSA/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Ajay9508/DSA/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/Ajay9508/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Ajay9508/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ajay9508/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -259,6 +261,7 @@ DSA   zero to pro
 | [0645-set-mismatch](https://github.com/Ajay9508/DSA/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/Ajay9508/DSA/tree/master/1122-relative-sort-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ajay9508/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Ajay9508/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2540-minimum-common-value](https://github.com/Ajay9508/DSA/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ajay9508/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2784-check-if-array-is-good](https://github.com/Ajay9508/DSA/tree/master/2784-check-if-array-is-good) |
@@ -305,6 +308,7 @@ DSA   zero to pro
 | [0383-ransom-note](https://github.com/Ajay9508/DSA/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Ajay9508/DSA/tree/master/1122-relative-sort-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Ajay9508/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Ajay9508/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Memoization
 |  |
