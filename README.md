@@ -155,6 +155,7 @@ DSA   zero to pro
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ajay9508/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ajay9508/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Ajay9508/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ajay9508/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ajay9508/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ajay9508/DSA/tree/master/0069-sqrtx) |
@@ -251,6 +252,7 @@ DSA   zero to pro
 | ------- |
 | [0001-two-sum](https://github.com/Ajay9508/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajay9508/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Ajay9508/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Ajay9508/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ajay9508/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ajay9508/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -332,6 +334,7 @@ DSA   zero to pro
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajay9508/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ajay9508/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Ajay9508/DSA/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Ajay9508/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ajay9508/DSA/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/Ajay9508/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ajay9508/DSA/tree/master/0125-valid-palindrome) |
