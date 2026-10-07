@@ -228,6 +228,7 @@ DSA   zero to pro
 | [0020-valid-parentheses](https://github.com/Ajay9508/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ajay9508/DSA/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Ajay9508/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Ajay9508/DSA/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -357,6 +358,7 @@ DSA   zero to pro
 | [0657-robot-return-to-origin](https://github.com/Ajay9508/DSA/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Ajay9508/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Ajay9508/DSA/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Ajay9508/DSA/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Ajay9508/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1768-merge-strings-alternately](https://github.com/Ajay9508/DSA/tree/master/1768-merge-strings-alternately) |
 | [2833-furthest-point-from-origin](https://github.com/Ajay9508/DSA/tree/master/2833-furthest-point-from-origin) |
@@ -462,4 +464,5 @@ DSA   zero to pro
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ajay9508/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ajay9508/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Ajay9508/DSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
