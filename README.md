@@ -223,6 +223,7 @@ DSA   zero to pro
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ajay9508/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ajay9508/DSA/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -339,6 +340,7 @@ DSA   zero to pro
 | [0012-integer-to-roman](https://github.com/Ajay9508/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ajay9508/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ajay9508/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Ajay9508/DSA/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Ajay9508/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ajay9508/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajay9508/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -451,4 +453,8 @@ DSA   zero to pro
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Ajay9508/DSA/tree/master/1122-relative-sort-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ajay9508/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
