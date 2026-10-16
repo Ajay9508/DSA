@@ -370,6 +370,7 @@ DSA   zero to pro
 | [0940-distinct-subsequences-ii](https://github.com/Ajay9508/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Ajay9508/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Ajay9508/DSA/tree/master/1768-merge-strings-alternately) |
+| [2278-percentage-of-letter-in-string](https://github.com/Ajay9508/DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2833-furthest-point-from-origin](https://github.com/Ajay9508/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay9508/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ajay9508/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
