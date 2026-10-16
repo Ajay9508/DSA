@@ -184,6 +184,7 @@ DSA   zero to pro
 | [1492-the-kth-factor-of-n](https://github.com/Ajay9508/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ajay9508/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ajay9508/DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Ajay9508/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1952-three-divisors](https://github.com/Ajay9508/DSA/tree/master/1952-three-divisors) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ajay9508/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2413-smallest-even-multiple](https://github.com/Ajay9508/DSA/tree/master/2413-smallest-even-multiple) |
@@ -370,6 +371,7 @@ DSA   zero to pro
 | [0940-distinct-subsequences-ii](https://github.com/Ajay9508/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Ajay9508/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Ajay9508/DSA/tree/master/1768-merge-strings-alternately) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Ajay9508/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2278-percentage-of-letter-in-string](https://github.com/Ajay9508/DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2833-furthest-point-from-origin](https://github.com/Ajay9508/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay9508/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
