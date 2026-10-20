@@ -101,6 +101,7 @@ DSA   zero to pro
 | [0045-jump-game-ii](https://github.com/Ajay9508/DSA/tree/master/0045-jump-game-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Ajay9508/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ajay9508/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1323-maximum-69-number](https://github.com/Ajay9508/DSA/tree/master/1323-maximum-69-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ajay9508/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ajay9508/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ajay9508/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -180,6 +181,7 @@ DSA   zero to pro
 | [0788-rotated-digits](https://github.com/Ajay9508/DSA/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/Ajay9508/DSA/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/Ajay9508/DSA/tree/master/0858-mirror-reflection) |
+| [1323-maximum-69-number](https://github.com/Ajay9508/DSA/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Ajay9508/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Ajay9508/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ajay9508/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
