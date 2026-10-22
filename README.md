@@ -40,6 +40,7 @@ DSA   zero to pro
 | [0485-max-consecutive-ones](https://github.com/Ajay9508/DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Ajay9508/DSA/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/Ajay9508/DSA/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Ajay9508/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Ajay9508/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ajay9508/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Ajay9508/DSA/tree/master/0875-koko-eating-bananas) |
@@ -237,6 +238,7 @@ DSA   zero to pro
 | [0020-valid-parentheses](https://github.com/Ajay9508/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ajay9508/DSA/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Ajay9508/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Ajay9508/DSA/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Ajay9508/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ajay9508/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
@@ -298,6 +300,7 @@ DSA   zero to pro
 | [0059-spiral-matrix-ii](https://github.com/Ajay9508/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Ajay9508/DSA/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Ajay9508/DSA/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Ajay9508/DSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Ajay9508/DSA/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ajay9508/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Ajay9508/DSA/tree/master/1929-concatenation-of-array) |
