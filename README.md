@@ -47,6 +47,7 @@ DSA   zero to pro
 | [0912-sort-an-array](https://github.com/Ajay9508/DSA/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Ajay9508/DSA/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/Ajay9508/DSA/tree/master/1260-shift-2d-grid) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ajay9508/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ajay9508/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Ajay9508/DSA/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/Ajay9508/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -142,6 +143,7 @@ DSA   zero to pro
 ## Prefix Sum
 |  |
 | ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ajay9508/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ajay9508/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ajay9508/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2574-left-and-right-sum-differences](https://github.com/Ajay9508/DSA/tree/master/2574-left-and-right-sum-differences) |
