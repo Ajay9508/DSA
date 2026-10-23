@@ -73,6 +73,7 @@ DSA   zero to pro
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ajay9508/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-trionic-array-i](https://github.com/Ajay9508/DSA/tree/master/3637-trionic-array-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ajay9508/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ajay9508/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ajay9508/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajay9508/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -157,6 +158,7 @@ DSA   zero to pro
 | [0645-set-mismatch](https://github.com/Ajay9508/DSA/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/Ajay9508/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ajay9508/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ajay9508/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ajay9508/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
